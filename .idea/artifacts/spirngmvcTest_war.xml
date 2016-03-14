@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="spirngmvcTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spirngmvcTest.war">
+      <element id="artifact" artifact-name="spirngmvcTest:war exploded" />
+    </root>
+  </artifact>
+</component>
